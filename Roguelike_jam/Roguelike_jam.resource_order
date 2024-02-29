@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Sprites","order":14,"path":"folders/Sprites.yy",},
+    {"name":"Sons","order":1,"path":"folders/Sons.yy",},
+    {"name":"Caminhos","order":2,"path":"folders/Caminhos.yy",},
+    {"name":"Scripts","order":3,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
+    {"name":"Fontes","order":5,"path":"folders/Fontes.yy",},
+    {"name":"Linhas do tempo","order":6,"path":"folders/Linhas do tempo.yy",},
+    {"name":"Objetos","order":7,"path":"folders/Objetos.yy",},
+    {"name":"Cenas","order":8,"path":"folders/Cenas.yy",},
+    {"name":"Sequências","order":9,"path":"folders/Sequências.yy",},
+    {"name":"Curvas da animação","order":10,"path":"folders/Curvas da animação.yy",},
+    {"name":"Anotações","order":11,"path":"folders/Anotações.yy",},
+    {"name":"Extensões","order":12,"path":"folders/Extensões.yy",},
+    {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_reticula","order":1,"path":"objects/obj_reticula/obj_reticula.yy",},
+    {"name":"obj_bala","order":4,"path":"objects/obj_bala/obj_bala.yy",},
+    {"name":"obj_armas","order":2,"path":"objects/obj_armas/obj_armas.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite4","order":1,"path":"sprites/Sprite4/Sprite4.yy",},
+  ],
+}
