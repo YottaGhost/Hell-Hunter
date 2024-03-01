@@ -13,3 +13,8 @@ y = obj_player.y + lengthdir_y(32, mouDir);
 image_angle = mouDir;
 
 tim += 0.016 ;
+
+if (mouDir >=180){
+	image_yscale = -1;
+}
+else {image_yscale = 1;}
